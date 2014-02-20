@@ -1,0 +1,23 @@
+WHO
+	Myself
+	Nathan
+
+WHAT
+	Logfile Viewer	(How to name it ... ? Logfiles ... logs ... trees ... forestry tools?  HyperBole; bole meaning trunk!)
+		Related to:
+			Apache Chainsaw
+			Otros log viewer/parser
+			Lilith
+			
+
+WHERE
+	NOT at Smiths, as it will be an open source project.
+		Also can't use 
+
+WHEN
+
+WHY
+
+HOW
+	Github
+	FLOSS!
