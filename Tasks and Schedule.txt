@@ -1,0 +1,10 @@
+1)	Identify atemporal goals for the system.
+	- What problems are universal amongst logfile viewers?
+	- What workflows necessarily involve logfile viewing?
+		- Independent of industry and technology.
+	- What other parts of the software development/operation process necessarily involve logfile viewing?
+		- Both in production and in the field.
+
+2) Research related work and `competitors'.  Identify useful new niche to fill.
+
+3) Install and evaluate the features of each related system.
